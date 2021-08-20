@@ -1,0 +1,3 @@
+C:\Users\barto\Desktop\Programming Visual\Gui C++\Examples\Examples\Debug\Examples.vcxprojAssemblyReference.cache
+C:\Users\barto\Desktop\Programming Visual\Gui C++\Examples\Examples\Debug\Examples.Form1.resources
+C:\Users\barto\Desktop\Programming Visual\Gui C++\Examples\Examples\Debug\Examples.vcxproj.GenerateResource.cache
